@@ -107,7 +107,7 @@ function ProductHowItWorks() {
           size="large"
           variant="contained"
           component="a"
-          href="/premium-themes/onepirate/sign-up/"
+          href=""
           sx={{ mt: 8 }}
         >
           Baixar Agora
