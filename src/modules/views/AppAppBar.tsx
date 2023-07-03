@@ -20,7 +20,7 @@ function AppAppBar() {
             variant="h6"
             underline="none"
             color="inherit"
-            href="/landing-page/iara/"
+            href=""
             sx={{ fontSize: 24 }}
           >
             {'ia.ra'}
@@ -30,7 +30,7 @@ function AppAppBar() {
               color="inherit"
               variant="h6"
               underline="none"
-              href="/landing-page/iara/download-app/"
+              href=""
               sx={rightLink}
             >
               {'Download'}
